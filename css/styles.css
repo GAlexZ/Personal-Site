@@ -1,0 +1,137 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Solway', serif;
+  background-color: #A4E9F5;
+
+
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 562.5%;
+  margin: 50px, auto, 0, auto;
+  color: #468BEE;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 2.5rem;
+  color: #468BEE;
+}
+
+h3{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #6DA2F0;
+}
+
+hr{
+  border: 10px #68E4F5;
+  border-top: 0px;
+  width: 5%;
+  border-style: dotted;
+  margin: 6rem auto;
+}
+
+.subtitle{
+  font-weight: normal;
+}
+
+.footer-link{
+  color: #6DA2F0;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #09D3F3;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 7rem;
+  background-color: #A4E9F5;
+
+
+}
+
+.middle-container{
+  margin: 6.25rem auto;
+
+}
+
+.bottom-container{
+  margin: 6.25rem auto;
+  line-height: 2;
+  margin-bottom: 3.125rem;
+
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  mar
+}
+
+.profile-img{
+  border-radius: 100%;
+  background-color: white;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 6.25rem auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 1.875rem;
+}
+
+.plc{
+  width: 25%;
+  float: right;
+  margin-left: 1.875rem;
+
+}
+
+.btn {
+  border: solid 20px;
+  border-radius: 50px;
+  text-decoration: none;
+  border-color: #0982F3;
+  color: white;
+  background-color: #0982F3;
+
+  
+}
+
+.btn:hover {
+  border: solid 20px;
+  border-radius: 100px;
+  text-decoration: none;
+  background-color: #09D3F3;
+  border-color: #09D3F3;
+
+   
+}
+
+.contact{
+  margin-bottom: 5rem;
+}
